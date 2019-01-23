@@ -1,7 +1,7 @@
 * [[php.org][PHP]] 
 
-* JS
+* [[js.org][JS]]
 
-* SQL
+* [[sql.org][SQL]]
 
-* Shell
+* [[shell.org][Shell]]
