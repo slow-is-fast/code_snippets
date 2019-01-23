@@ -3,3 +3,7 @@
 * JS
 
 * SQL
+
+* Shell
+
+* Linux/Mac Management
