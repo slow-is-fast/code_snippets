@@ -6,4 +6,4 @@
 
 * Shell
 
-* Linux/Mac Management
+* Linux/Mac System Management
