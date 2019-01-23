@@ -5,5 +5,3 @@
 * SQL
 
 * Shell
-
-* Linux/Mac System Management
